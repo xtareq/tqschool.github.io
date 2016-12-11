@@ -1,1 +1,4 @@
-echo "tare hossain";
+<?php 
+
+echo "tareq Hosain";
+?>
